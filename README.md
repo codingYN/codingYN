@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<p align="left">
+  <a href="https://github.com/codingYN">
+    <img height="20" src="https://komarev.com/ghpvc/?username=codingYN" />
+  </a>
+  <a href="https://github.com/codingYN">
+    <img height="20" src="https://img.shields.io/github/followers/codingYN?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 <!--
 **codingYN/codingYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
